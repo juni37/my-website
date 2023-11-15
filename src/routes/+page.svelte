@@ -203,10 +203,9 @@
     <h2><span>S</span><span>a</span><span>m</span> <span>C</span><span>h</span><span>e</span><span>n</span><span>g</span></h2>
   </a>
   <div id="socials">
-    <a href="https://github.com/samalander0" target="_blank" rel="noreferrer" aria-label="Go to Sam's Github"><img src={github} alt="github logo"/></a>
-    <a href="https://instagram.com/samaland3r_" target="_blank" rel="noreferrer" aria-label="Go to Sam's Instagram"><img src={instagram} alt="instagram logo"/></a>
-    <a href="https://twitter.com/samaland3r" target="_blank" rel="noreferrer" aria-label="Go to Sam's Twitter"><img src={twitter} alt="twitter logo"/></a>
-    <a href="https://discord.com/users/588480933108121618" target="_blank" rel="noreferrer" aria-label="Go to Sam's Discord"><img src={discord} alt="discord logo"/></a>
+    <a href="https://github.com/juni37" target="_blank" rel="noreferrer" aria-label="Go to Paul's Github"><img src={github} alt="github logo"/></a>
+    <a href="https://instagram.com/yujunkim_" target="_blank" rel="noreferrer" aria-label="Go to Paul's Instagram"><img src={instagram} alt="instagram logo"/></a>
+    <a href="https://discord.com/users/931714990262591499" target="_blank" rel="noreferrer" aria-label="Go to Paul's Discord"><img src={discord} alt="discord logo"/></a>
   </div>
 </nav>
 
@@ -358,7 +357,7 @@
               <div class="contact-social-media">
                 <a href="https://github.com/juni37" target="_blank" rel="noreferrer" aria-label="Go to Paul's Github"><img src={github} alt="github logo"/></a>
                 <a href="https://instagram.com/yujunkim_" target="_blank" rel="noreferrer" aria-label="Go to Paul's Instagram"><img src={instagram} alt="instagram logo"/></a>
-                <a href="https://discord.com/users/588480933108121618" target="_blank" rel="noreferrer" aria-label="Go to Paul's Discord"><img src={discord} alt="discord logo"/></a>
+                <a href="https://discord.com/users/931714990262591499" target="_blank" rel="noreferrer" aria-label="Go to Paul's Discord"><img src={discord} alt="discord logo"/></a>
               </div>
             </div>
             <div class="contact-info-line">
@@ -367,7 +366,7 @@
             </div>
             <div class="contact-info-line">
               <h3>Location</h3>
-              <a href="https://goo.gl/maps/UXvrrJ4wXHNE7E1PA" target="_blank" rel="noreferrer">Silicon Valley - California</a>
+              <a href="https://maps.app.goo.gl/9iFjT4JcVkot4qX3A" target="_blank" rel="noreferrer">Metro Atlanta Area - Georgia</a>
             </div>
           </div>
         </div>
