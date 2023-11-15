@@ -351,20 +351,19 @@
       <h2>I'd love to work with you</h2>
       <div id="contact-content">
         <div id="contact-info">
-          <p>Do you have a question, idea, or a project you need help with? <br/> Reach out - I'd love to hear from you.</p>
+          <p>Do you have a wonderful idea and want to make it into reality? <br/> Reach out - I'd love to hear from you.</p>
           <div>
             <div class="contact-info-line">
               <h3>Social Media</h3>
               <div class="contact-social-media">
-                <a href="https://github.com/samalander0" target="_blank" rel="noreferrer" aria-label="Go to Sam's Github"><img src={github} alt="github logo"/></a>
-                <a href="https://instagram.com/samaland3r_" target="_blank" rel="noreferrer" aria-label="Go to Sam's Instagram"><img src={instagram} alt="instagram logo"/></a>
-                <a href="https://twitter.com/samaland3r" target="_blank" rel="noreferrer" aria-label="Go to Sam's Twitter"><img src={twitter} alt="twitter logo"/></a>
-                <a href="https://discord.com/users/588480933108121618" target="_blank" rel="noreferrer" aria-label="Go to Sam's Discord"><img src={discord} alt="discord logo"/></a>
+                <a href="https://github.com/juni37" target="_blank" rel="noreferrer" aria-label="Go to Paul's Github"><img src={github} alt="github logo"/></a>
+                <a href="https://instagram.com/yujunkim_" target="_blank" rel="noreferrer" aria-label="Go to Paul's Instagram"><img src={instagram} alt="instagram logo"/></a>
+                <a href="https://discord.com/users/588480933108121618" target="_blank" rel="noreferrer" aria-label="Go to Paul's Discord"><img src={discord} alt="discord logo"/></a>
               </div>
             </div>
             <div class="contact-info-line">
               <h3>Email</h3>
-              <a href="mailto:sam@samalander.dev" target="_blank">sam@samalander.dev</a>
+              <a href="mailto:iam@paulkim.me" target="_blank">iam@paulkim.me</a>
             </div>
             <div class="contact-info-line">
               <h3>Location</h3>
@@ -372,14 +371,14 @@
             </div>
           </div>
         </div>
-        <form name="contact-form" acceptCharset="utf-8" action="https://formsubmit.co/contact@samalander.dev" method="post">
+        <form name="contact-form" acceptCharset="utf-8" action="https://formsubmit.co/iam@paulkim.me" method="post">
           <fieldset>
             <input type="text" name="name" id="your-name" placeholder="Name" required/>
             <input type="email" name="email" id="your-email" placeholder="Email" required/>
           </fieldset>
           <textarea name="message" id="message" placeholder="Message" required/>
           <input type="submit" value="Submit"/>
-          <input type="hidden" name="_next" value="https://www.samalander.dev">
+          <input type="hidden" name="_next" value="https://paulkim.me">
         </form>
       </div>
     </div>
