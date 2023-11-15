@@ -200,7 +200,7 @@
 
 <nav class="navbar">
   <a href="#" id="title">
-    <h2><span>S</span><span>a</span><span>m</span> <span>C</span><span>h</span><span>e</span><span>n</span><span>g</span></h2>
+    <h2><span>Y</span><span>U</span><span>J</span><span>U</span><span>N</span> <span>(</span><span>P</span><span>A</span><span>U</span><span>L</span><span>)</span> <span>K</span><span>I</span><span>M</span></h2>
   </a>
   <div id="socials">
     <a href="https://github.com/juni37" target="_blank" rel="noreferrer" aria-label="Go to Paul's Github"><img src={github} alt="github logo"/></a>
