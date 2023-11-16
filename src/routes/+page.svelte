@@ -307,12 +307,13 @@
       </div>
     </section>
   </div>
+  <!--
   <section id="projects" bind:this={projectsSection}>
     <h2>Projects</h2>
     <span aria-hidden="true">Projects</span>
     <div id="scroller">
       <article class="project" bind:this={project2}>
-        <a href="https://postcard.samalander.dev/" target="_blank" rel="noreferrer" aria-label="go to featured website">
+        <a href="https://devbench.kr/" target="_blank" rel="noreferrer" aria-label="go to featured website">
           <img src={postcards} alt="digital postcard website screenshot"/>
         </a>
         <a href="https://postcard.samalander.dev/" target="_blank" rel="noreferrer" class="project-title">
@@ -345,6 +346,7 @@
       </article>
     </div>
   </section>
+  -->
   <section id="contact">
     <div id="contact-wrapper">
       <h2>I'd love to work with you</h2>
