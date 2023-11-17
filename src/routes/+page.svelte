@@ -2,7 +2,7 @@
   import './styles.scss'
   import { onMount } from 'svelte';
 
-  import { book, open_book, arrow, emoji, artist, gear, school, brain, oldsites, boring, habitual, morado, postcards, github, instagram, twitter, discord } from '$lib/images/images';
+  import { book, open_book, arrow, emoji, artist, gear, school, brain, oldsites, cs50, libibkk, projectempower, devbench, github, instagram, twitter, discord } from '$lib/images/images';
   
   import Metatags from '$lib/components/Metatags.svelte';
   
@@ -307,46 +307,45 @@
       </div>
     </section>
   </div>
-  <!--
+  
   <section id="projects" bind:this={projectsSection}>
     <h2>Projects</h2>
     <span aria-hidden="true">Projects</span>
     <div id="scroller">
       <article class="project" bind:this={project2}>
         <a href="https://devbench.kr/" target="_blank" rel="noreferrer" aria-label="go to featured website">
-          <img src={postcards} alt="digital postcard website screenshot"/>
+          <img src={devbench} alt="DevBench, A Community for Korean Youth Developers - website screenshot"/>
         </a>
-        <a href="https://postcard.samalander.dev/" target="_blank" rel="noreferrer" class="project-title">
-          <h3>Digital Postcards</h3>
+        <a href="https://devbench.kr/" target="_blank" rel="noreferrer" class="project-title">
+          <h3>DevBench: A Community for Korean Youth Developers</h3>
         </a>
       </article>
       <article class="project" bind:this={project3}>
-        <a href="https://www.habitual.studio/" target="_blank" rel="noreferrer" aria-label="go to featured website">
-          <img src={habitual} alt="habitual website screenshot"/>
+        <a href="https://libibkk.com/" target="_blank" rel="noreferrer" aria-label="go to featured website">
+          <img src={libibkk} alt="LIBIBKK, Korean Top 1 Minecraft Looting server - a  website screenshot"/>
         </a>
-        <a href="https://www.habitual.studio/" target="_blank" rel="noreferrer" class="project-title">
-          <h3>Habitual</h3>
+        <a href="https://libibkk.com/" target="_blank" rel="noreferrer" class="project-title">
+          <h3>LIBIBKK Server</h3>
         </a>
       </article>
       <article class="project" bind:this={project4}>
-        <a href="https://mora.do/" target="_blank" rel="noreferrer" aria-label="go to featured website">
-          <img src={morado} alt="petrichor website screenshot"/>
+        <a href="https://empowerfsa.xyz/" target="_blank" rel="noreferrer" aria-label="go to featured website">
+          <img src={projectempower} alt="Project: Empower at Fulton Science Academy - website screenshot"/>
         </a>
-        <a href="https://mora.do/" target="_blank" rel="noreferrer" class="project-title">
-          <h3>Morado Development</h3>
+        <a href="https://empowerfsa.xyz/" target="_blank" rel="noreferrer" class="project-title">
+          <h3>Project: Empower at Fulton Science Academy</h3>
         </a>
       </article>
       <article class="project" bind:this={project1}>
-        <a href="https://boring.samalander.dev/" target="_blank" rel="noreferrer" aria-label="go to featured website">
-          <img src={boring} alt="[boring] website screenshot"/>
+        <a href="https://cs50.paulkim.me/hello_world" target="_blank" rel="noreferrer" aria-label="go to featured website">
+          <img src={cs50} alt="CS50 at Fulton Science Academy - website screenshot"/>
         </a>
-        <a href="https://boring.samalander.dev/" target="_blank" rel="noreferrer" class="project-title">
-          <h3>[Boring]</h3>
+        <a href="https://cs50.paulkim.me/hello_world" target="_blank" rel="noreferrer" class="project-title">
+          <h3>CS50 at Fulton Science Academy</h3>
         </a>
       </article>
     </div>
   </section>
-  -->
   <section id="contact">
     <div id="contact-wrapper">
       <h2>I'd love to work with you</h2>
@@ -364,18 +363,22 @@
             </div>
             <div class="contact-info-line">
               <h3>Email</h3>
-              <a href="mailto:iam@paulkim.me" target="_blank">iam@paulkim.me</a>
+              <a href="mailto:iam@paulkim.me" target="_blank">iam at paulkim.me. Please reach me using the <strong>contact form!</strong></a>
             </div>
             <div class="contact-info-line">
               <h3>Location</h3>
               <a href="https://maps.app.goo.gl/9iFjT4JcVkot4qX3A" target="_blank" rel="noreferrer">Metro Atlanta Area - Georgia</a>
             </div>
+            <div class="contact-info-line">
+              <h3>Resume</h3>
+              <a href="https://resume.paulkim.me" target="_blank" rel="noreferrer">View my resume</a>
+            </div>
           </div>
         </div>
-        <form name="contact-form" acceptCharset="utf-8" action="https://formsubmit.co/iam@paulkim.me" method="post">
+        <form name="contact-form" acceptCharset="utf-8" action="https://formsubmit.co/iam@paulkim.me" method="POST">
           <fieldset>
-            <input type="text" name="name" id="your-name" placeholder="Name" required/>
-            <input type="email" name="email" id="your-email" placeholder="Email" required/>
+            <input type="text" name="name" id="your-name" placeholder="Your Name" required/>
+            <input type="email" name="email" id="your-email" placeholder="Your@Email.com" required/>
           </fieldset>
           <textarea name="message" id="message" placeholder="Message" required/>
           <input type="submit" value="Submit"/>

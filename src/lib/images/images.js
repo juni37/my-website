@@ -83,9 +83,10 @@ export const oldsites = [
 ];
 
 // Projects Screenshots
-import boring from './projects/boring.webp';
-import habitual from './projects/habitual.webp';
-import morado from './projects/morado.webp';
-import postcards from './projects/postcards.webp';
+import cs50 from './projects/cs50.webp';
+import libibkk from './projects/LIBIBKK.webp';
+import projectempower from './projects/projectempower.webp';
+import devbench from './projects/devbench.webp';
+import scripta from './projects/scripta.webp';
 
-export {boring, habitual, morado, postcards};
+export {cs50, libibkk, projectempower, devbench, scripta};
