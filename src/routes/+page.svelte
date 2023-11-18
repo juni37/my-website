@@ -363,7 +363,7 @@
             </div>
             <div class="contact-info-line">
               <h3>Email</h3>
-              <a href="mailto:iam@paulkim.me" target="_blank">iam at paulkim.me. Please reach me using the <strong>contact form!</strong></a>
+              <a href="mailto:iam@paulkim.me" target="_blank">iam at paulkim.me.</a>
             </div>
             <div class="contact-info-line">
               <h3>Location</h3>
