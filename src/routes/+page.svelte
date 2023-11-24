@@ -351,7 +351,7 @@
       <h2>I'd love to work with you</h2>
       <div id="contact-content">
         <div id="contact-info">
-          <p>Do you have a wonderful idea and want to make it into reality? <br/> Reach out - I'd love to hear from you.</p>
+          <p>Do you have a wonderful idea and want to make it into reality? <br/> Reach out with contact form - I'd love to hear from you. </p>
           <div>
             <div class="contact-info-line">
               <h3>Social Media</h3>
@@ -363,7 +363,7 @@
             </div>
             <div class="contact-info-line">
               <h3>Email</h3>
-              <a href="mailto:iam@paulkim.me" target="_blank">iam at paulkim.me.</a>
+              <a href="mailto:%68%65%6c%6c%6f%40%70%61%75%6c%6b%69%6d%2e%6d%65">hello at paulkim.me</a>
             </div>
             <div class="contact-info-line">
               <h3>Location</h3>
@@ -371,7 +371,11 @@
             </div>
             <div class="contact-info-line">
               <h3>Resume</h3>
-              <a href="https://resume.paulkim.me" target="_blank" rel="noreferrer">View my resume</a>
+              <a href="https://resume.paulkim.me" target="_blank" rel="noreferrer">Not much, but it's honest work.</a>
+            </div>
+            <div class="contact-info-line">
+              <h3>Blog</h3>
+              <a href="https://blog.paulkim.me/" target="_blank" rel="noreferrer">I write tech-savvy stuff!</a>
             </div>
           </div>
         </div>
