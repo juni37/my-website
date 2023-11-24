@@ -2,7 +2,7 @@
   import './styles.scss'
   import { onMount } from 'svelte';
 
-  import { book, open_book, arrow, emoji, artist, gear, school, brain, oldsites, cs50, libibkk, projectempower, devbench, github, instagram, twitter, discord } from '$lib/images/images';
+  import { book, open_book, arrow, emoji, artist, gear, school, brain, oldsites, cs50, libibkk, projectempower, devbench, github, linkedin, instagram, twitter, discord } from '$lib/images/images';
   
   import Metatags from '$lib/components/Metatags.svelte';
   
@@ -206,6 +206,7 @@
     <a href="https://github.com/juni37" target="_blank" rel="noreferrer" aria-label="Go to Paul's Github"><img src={github} alt="github logo"/></a>
     <a href="https://instagram.com/yujunkim_" target="_blank" rel="noreferrer" aria-label="Go to Paul's Instagram"><img src={instagram} alt="instagram logo"/></a>
     <a href="https://discord.com/users/931714990262591499" target="_blank" rel="noreferrer" aria-label="Go to Paul's Discord"><img src={discord} alt="discord logo"/></a>
+    <a href="https://linkedin.com/in/yujunkim" target="_blank" rel="noreferrer" aria-label="Go to Paul's LinkedIn"><img src={linkedin} alt="linkedin logo"/></a>
   </div>
 </nav>
 
@@ -359,6 +360,7 @@
                 <a href="https://github.com/juni37" target="_blank" rel="noreferrer" aria-label="Go to Paul's Github"><img src={github} alt="github logo"/></a>
                 <a href="https://instagram.com/yujunkim_" target="_blank" rel="noreferrer" aria-label="Go to Paul's Instagram"><img src={instagram} alt="instagram logo"/></a>
                 <a href="https://discord.com/users/931714990262591499" target="_blank" rel="noreferrer" aria-label="Go to Paul's Discord"><img src={discord} alt="discord logo"/></a>
+                <a href="https://linkedin.com/in/yujunkim" target="_blank" rel="noreferrer" aria-label="Go to Paul's LinkedIn"><img src={linkedin} alt="linkedin logo"/></a>
               </div>
             </div>
             <div class="contact-info-line">
