@@ -34,4 +34,4 @@ Permissions of this strongest copyleft license are conditioned on making availab
 
 ### I want the fine print!
 We are using GNU Affero General Public License v3.0 for this open source project.    
-Click [here] for more information.
+Click [here](https://github.com/juni37/my-website/blob/main/LICENSE) for more information.
