@@ -351,7 +351,7 @@
       <h2>I'd love to work with you</h2>
       <div id="contact-content">
         <div id="contact-info">
-          <p>Do you have a wonderful idea and want to make it into reality? <br/> Reach out with contact form - I'd love to hear from you. </p>
+          <p>Do you have a wonderful idea and want to make it into reality? <br/> Reach out with a contact form - I'd love to hear from you. </p>
           <div>
             <div class="contact-info-line">
               <h3>Social Media</h3>
