@@ -5,6 +5,7 @@
     let homepageLink = "https://paulkim.me";
     let resumeLink = "https://resume.paulkim.me";
     let learnMoreLink = "https://cs50.paulkim.me/hello_world/";
+    let blogLink = "https://blog.paulkim.me";
 </script>
 
 <style>
@@ -124,7 +125,7 @@
             <h2>Error<br>404</h2>
         </div>
         <p>Sorry! You've reached a page that doesn't exist.</p>
-        <p><a href={homepageLink}>Back to homepage | </a> <a href={resumeLink}>Back to resume</a></p>
+        <p><a href={homepageLink}>Back to homepage | </a> <a href={resumeLink}>Back to resume | </a><a href={blogLink}>Back to blog</a></p>
         <p>Don't know or unsure what 404 means? <a href={learnMoreLink}>Learn more.</a></p>
     </div>
 </div>
